@@ -96,7 +96,7 @@ plt.ylabel("SCORE")
 plt.legend()
 plt.show()
 
-![Predictions vs Actual](plots/utah_drought_predictions.png)  
+![Predictions vs Actual](utah_drought_predictions.png)  
 *Comparison of predicted Utah Drought SCORE using Random Forest, Linear Regression, and Gradient Boosting models against actual values.*
 
 ---
